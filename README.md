@@ -1,2 +1,0 @@
-# TaskList
-Gerenciador de tarefas.
